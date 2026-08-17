@@ -140,7 +140,8 @@ img {
 }
 
 .lower-header>button {
-    padding: 8px 24px;
+    width: 100px;
+    padding: 12px 24px;
     background-color: #1992d4;
     border: 0;
     color: white;
